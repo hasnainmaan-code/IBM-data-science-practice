@@ -17,7 +17,7 @@
 ### 📘 Course: Python for Data Science, AI & Development
 - [ ] **Module 1:** Python Basics *(Variables, Strings, Mathematical Expressions)*
 - [ ] **Module 2:** Python Data Structures *(Lists, Tuples, Sets, Dictionaries)*
-- [ ]  **Module 3:** Programming Fundamentals *(Loops, Functions, Exception Handling, OOP)*
+- [ ] **Module 3:** Programming Fundamentals *(Loops, Functions, Exception Handling, OOP)*
 - [ ] **Module 4:** Working with Data in Python *(File I/O, Pandas, NumPy)*
 - [ ] **Module 5:** APIs & Web Scraping *(Requests, BeautifulSoup, REST APIs)*
 
@@ -31,14 +31,14 @@
 Click any course module accordion below to inspect module goals and subfolders:
 
 <details>
-<summary><b>📂 c04_m01_python_basics</b></summary>
+<summary><b>📂 python_basics</b></summary>
 <br>
 
 * **Focus:** Fundamental syntax, string sanitation, and method chaining (`.strip().lower().replace()`).
 </details>
 
 <details>
-<summary><b>📂 c04_m02_data_structures</b></summary>
+<summary><b>📂 data_structures</b></summary>
 
 <br>
 
@@ -46,7 +46,7 @@ Click any course module accordion below to inspect module goals and subfolders:
 </details>
 
 <details>
-<summary><b>📂 c04_m03_programming_fundamentals</b></summary>
+<summary><b>📂 programming_fundamentals</b></summary>
 
 <br>
 
@@ -54,7 +54,7 @@ Click any course module accordion below to inspect module goals and subfolders:
 </details>
 
 <details>
-<summary><b>📂 c04_m04_working_with_data</b></summary>
+<summary><b>📂 working_with_data</b></summary>
 
 <br>
 
@@ -62,7 +62,7 @@ Click any course module accordion below to inspect module goals and subfolders:
 </details>
 
 <details>
-<summary><b>📂 c04_m05_apis_and_web_scraping</b></summary>
+<summary><b>📂 apis_and_web_scraping</b></summary>
 
 <br>
 
@@ -70,7 +70,7 @@ Click any course module accordion below to inspect module goals and subfolders:
 </details>
 
 <details>
-<summary><b>📂 c05_applied_python_project</b></summary>
+<summary><b>📂 applied_python_project</b></summary>
 
 <br>
 
